@@ -4,3 +4,4 @@ This repository contains the list of commands executed in each episode of the ["
 
 [Episode 3 - Introduction to Linux shell commands in bash](episode-3-introduction-to-linux-shell-commands.md)
 [Episode 4 - Install programs using package managers: GNU Octave](episode-4-install-gnu-octave-using-package-managers.md)
+[Episode 5 - Install Visual Studio Code and Atom using installation packages and dpkg](episode-5-install-vs-code-atom-using-dpkg.md)
