@@ -1,4 +1,4 @@
-# [Environment Setup 5] Install Visual Studio Code and Atom using installation packages and dpkg
+# [Environment Setup 6] Install ParaView, GMSH, and SALOME using precompiled (portable) binaries
 
 * Navigate to the home folder
 
@@ -120,6 +120,6 @@
 
 `$ sudo apt install libtbb2`
 
-* Run SALOME 
+* Run SALOME
 
 `$ ./salome`

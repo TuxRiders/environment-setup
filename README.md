@@ -9,3 +9,5 @@ This repository contains the list of commands executed in each episode of the ["
 [Episode 5 - Install Visual Studio Code and Atom using installation packages and dpkg](episode-5-install-vs-code-atom-using-dpkg.md)
 
 [Episode 6 - Install ParaView, GMSH, and SALOME using precompiled (portable) binaries](episode-6-install-paraview-gmsh-salome.md)
+
+[Episode 7 - Python package managers and Conda environments: Install meshio and Jupyter](episode-7-python-package-managers-jupyter-notebooks.md)
