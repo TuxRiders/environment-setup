@@ -60,4 +60,3 @@
 
 `$ conda info --envs`
 
-*
