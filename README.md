@@ -13,3 +13,5 @@ This repository contains the list of commands executed in each episode of the ["
 [Episode 7 - Python package managers and Conda environments: Install meshio and Jupyter](episode-7-python-package-managers-jupyter-notebooks.md)
 
 [Episode 8 - Compile programs from source code using GCC, GNU Make, and CMake](episode-8-compile-source-codes-gcc-make-cmake.md)
+
+[Episode 9 - Build GNU Scientific Library using Make](episode-9-build-gnu-scientific-library.md)
