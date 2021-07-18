@@ -15,3 +15,5 @@ This repository contains the list of commands executed in each episode of the ["
 [Episode 8 - Compile programs from source code using GCC, GNU Make, and CMake](episode-8-compile-source-codes-gcc-make-cmake.md)
 
 [Episode 9 - Build GNU Scientific Library using Make](episode-9-build-gnu-scientific-library.md)
+
+[Episode 10 - Build Mmg mesh generator using CMake](episode-10-build-mmg-using-cmake.md)
