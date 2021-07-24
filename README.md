@@ -17,3 +17,5 @@ This repository contains the list of commands executed in each episode of the ["
 [Episode 9 - Build GNU Scientific Library using Make](episode-9-build-gnu-scientific-library.md)
 
 [Episode 10 - Build Mmg mesh generator using CMake](episode-10-build-mmg-using-cmake.md)
+
+[Episode 11 - Build CGAL-based programs using CMake](episode-11-build-cgal-programs-using-cmake.md)
