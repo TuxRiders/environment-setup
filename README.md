@@ -21,3 +21,5 @@ This repository contains the list of commands executed in each episode of the ["
 [Episode 11 - Build CGAL-based programs using CMake](episode-11-build-cgal-programs-using-cmake.md)
 
 [Episode 12 - Build OpenLB programs for lattice Boltzmann simulations](episode-12-build-openlb-programs.md)
+
+[Episode 13 - Build FreeFEM finite element solver](episode-13-build-freefem.md)
